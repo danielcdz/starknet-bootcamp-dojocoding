@@ -1,1 +1,0 @@
-# starknet-bootcamp-dojocoding
